@@ -594,6 +594,6 @@ packages:
       "@eslint/core": 0.12.0
       levn: 0.4.1
     dev: true
-  /@humanfs/core@0.19.1:
+  /Applications/ @humanfs/core@0.19.1:
     resolution:
    }
